@@ -28,5 +28,5 @@ Game engine architecture have many layers that start at hardware (ex. xbox,pc et
 
 Then drivers manage resources that the hardware provides
 
-OS running all the time 
+OS running all the time
 
